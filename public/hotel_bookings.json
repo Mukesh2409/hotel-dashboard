@@ -1,0 +1,152 @@
+[
+    {
+        "hotel": "Hotel A",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": "15",
+        "adults": 2,
+        "children": 1,
+        "babies": 0,
+        "country": "USA"
+    },
+    {
+        "hotel": "Hotel B",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": "20",
+        "adults": 1,
+        "children": 0,
+        "babies": 0,
+        "country": "Canada"
+    },
+    {
+        "hotel": "Hotel C",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": "10",
+        "adults": 2,
+        "children": 2,
+        "babies": 1,
+        "country": "UK"
+    },
+    {
+        "hotel": "Hotel D",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": "15",
+        "adults": 4,
+        "children": 0,
+        "babies": 0,
+        "country": "Germany"
+    },
+    {
+        "hotel": "Hotel E",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": "5",
+        "adults": 1,
+        "children": 1,
+        "babies": 0,
+        "country": "France"
+    },
+    {
+        "hotel": "Hotel F",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": "12",
+        "adults": 3,
+        "children": 1,
+        "babies": 0,
+        "country": "Italy"
+    },
+    {
+        "hotel": "Hotel G",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": "1",
+        "adults": 2,
+        "children": 0,
+        "babies": 1,
+        "country": "Spain"
+    },
+    {
+        "hotel": "Hotel H",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": "15",
+        "adults": 4,
+        "children": 2,
+        "babies": 0,
+        "country": "Australia"
+    },
+    {
+        "hotel": "Hotel I",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": "20",
+        "adults": 1,
+        "children": 0,
+        "babies": 0,
+        "country": "India"
+    },
+    {
+        "hotel": "Hotel J",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": "30",
+        "adults": 3,
+        "children": 1,
+        "babies": 0,
+        "country": "Brazil"
+    },
+    {
+        "hotel": "Hotel K",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": "5",
+        "adults": 2,
+        "children": 2,
+        "babies": 1,
+        "country": "Mexico"
+    },
+    {
+        "hotel": "Hotel L",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": "10",
+        "adults": 1,
+        "children": 0,
+        "babies": 0,
+        "country": "Argentina"
+    },
+    {
+        "hotel": "Hotel M",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": "15",
+        "adults": 2,
+        "children": 3,
+        "babies": 0,
+        "country": "South Africa"
+    },
+    {
+        "hotel": "Hotel N",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": "20",
+        "adults": 4,
+        "children": 1,
+        "babies": 0,
+        "country": "Japan"
+    },
+    {
+        "hotel": "Hotel O",
+        "arrival_date_year": "2023",
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": "30",
+        "adults": 1,
+        "children": 2,
+        "babies": 1,
+        "country": "Russia"
+    }
+]

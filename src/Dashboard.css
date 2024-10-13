@@ -1,0 +1,17 @@
+.dashboard-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .date-picker {
+    margin-bottom: 20px;
+  }
+  
+  .date-picker label {
+    margin-right: 10px;
+  }
+  
+  .date-picker input {
+    margin-right: 20px;
+  }
+  
